@@ -12,5 +12,5 @@ After forking this Repository, update this README by adding your name to the lis
 - romeonewo
 - ["[Names of contributors]"]
 - "[Names of contributors]"
-- Names of contributors
+
 
