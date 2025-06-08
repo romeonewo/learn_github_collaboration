@@ -10,7 +10,7 @@ After forking this Repository, update this README by adding your name to the lis
 - James Nzioka
 - Biniyam Ambachew
 - romeonewo
-- ["[Names of contributors]"]
+
 
 
 
